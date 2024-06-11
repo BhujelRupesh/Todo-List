@@ -1,0 +1,68 @@
+
+.deleteButton{
+    background-color: red;
+    color:white;
+    padding: 0.5rem 0.8rem;
+    border-radius: 0.5rem;
+}
+.editButton{
+    background-color: rgb(187, 187, 70);
+    color: white;
+    padding: 0.5rem 0.8rem;
+    border-radius: 0.5rem;
+}
+.container{
+    background-color: lightseagreen;
+    box-shadow: 20px 20px red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin:6rem 22rem;
+    border-radius: 1rem;
+    box-shadow: 10px 13px 16px grey;
+}
+.wrapper{
+    margin:2rem;
+}
+
+.listToAdd{
+    border: none;
+    margin: 0.5rem 0.2rem;
+    height: 1.25rem;
+    border-radius: 0.7rem;
+    padding: 0.6rem;
+    width: 22rem;
+}
+.addList{
+    background-color: green;
+    color: white;
+    border-radius: 0.5rem;
+    padding: 0.7rem 2rem;
+}
+.bodyMain{
+    display: flex;
+    display: flex;
+    margin-top: 0.5rem;
+}
+.leftValue{
+    width: 50%;
+    padding-top: 0.5rem;
+    padding-left: 0.4rem;
+}
+.rightValue{
+    display: flex;
+    justify-content: end;
+    width: 50%;
+}
+button{
+    margin-left: 0.2rem;
+    border: none;
+
+}
+button:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+
